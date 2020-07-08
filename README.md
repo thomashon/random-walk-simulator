@@ -1,9 +1,9 @@
 # Random Walk Simulator
 
-Script that simulates a random walk given a specif grid size.  
+Script that simulates a random walk given a specific grid size.  
 The 'walk' stops when it reaches the border.
 
-Functions were compiled with numba to enhance computation time.
+Functions were compiled with numba to enhance computation time.  
 https://numba.pydata.org/
 
 Output gifs from a 20 x 20 and 50 x 50 pixels grid:
